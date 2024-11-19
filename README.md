@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning backend....
 - 📫 Reach me on ayushchoudhary0607@gmail.com
 - ⚡ Known skills are Html5, CSS, Javascript, React, Python, C, C+
-- 🫱🏼 Have a look on my projects on github.com/Ayu0607
+- 🫱🏼 Have a look on my projects on www.github.com/Ayu0607
 
 <!---
 Ayu0607/Ayu0607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
