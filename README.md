@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development in both frontend & backend.
 - 🌱 I’m currently learning backend....
 - 📫 Reach me on ayushchoudhary0607@gmail.com
-- ⚡ Known skills are Html5, CSS, Javascript, React, Python, C, C+
+- ⚡ Known skills are Html5, CSS, Javascript, React, Python, C, C++
 - 🫱🏼 Have a look on my projects on www.github.com/Ayu0607
 
 <!---
