@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayu0607
+- 👋 Hi, I’m Ayush Choudhary.
 - 👀 I’m interested in web development in both frontend & backend.
 - 🌱 I’m currently learning backend....
 - 📫 Reach me on ayushchoudhary0607@gmail.com
